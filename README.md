@@ -30,11 +30,11 @@ pip install opencv-python mediapipe numpy
 
 ## Usage
 
-1. Clone the repository or save the code to a file (e.g., `headpose.py`).
+1. Clone the repository or save the code to a file.
 2. Run the script:
 
    ```bash
-   python head_pose_estimation.py
+   python headpose.py
    ```
 
 3. Grant webcam access when prompted.
